@@ -1,0 +1,21 @@
+PUBLCI 폴더 : 정적파일(기존 홈페이지 구성요소 위치) => 수정시 새로고침해야함
+    css 폴더
+    fonts 폴더
+    img 폴더
+    js 폴더
+        lib 폴더 
+        photography_class.js
+    scss 폴더
+    form_mail_ajax_insert.php
+    index.html
+
+
+SRC 폴더 : 동적파일(리액트컴포넌트 & 템플릿트) => 수정시 즉각 반응함(리액티비티)
+ 
+    index.js
+    components 폴더
+        WrapComponent.jsx
+        - wrap 폴더
+            - HeaderComponent.jsx
+            - MainComponent.jsx
+            - FooterComponent.jsx
